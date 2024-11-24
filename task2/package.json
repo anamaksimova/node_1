@@ -1,0 +1,10 @@
+{
+    "name" : "task2",
+    "version" : "1.0.0",
+    "author" : "anamaksimova",
+    "main" : "task2.js",
+    "exports" : {
+        "import" : "./task2/task2.mjs",
+        "require" : "./task2/task2.js"
+    }
+}
